@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidWP\FindYourFriend\app\libs\CWAC-SackOfViewsAdapter.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c514a41a4d82b75c692e161557fb3a493964794f">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\CWAC-SackOfViewsAdapter-b1855f51a86fd9eefa057bbaf04c6605e5a8003b.jar" />
+    </item>
+    <item
+        jar="C:\Users\quocvu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-0d89bdf348e49b51ff963eb089d19690d190a77a.jar" />
+    </item>
+    <item
+        jar="F:\androidWP\FindYourFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\classes-1d89b43c5389650ffd12514e81140a539a365c24.jar" />
+    </item>
+    <item
+        jar="F:\androidWP\FindYourFriend\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\classes-346d230370bf73eac5de031a37ca32223c529da7.jar" />
+    </item>
+    <item
+        jar="F:\androidWP\FindYourFriend\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-b0dcc8c96aa0b8b91c1a018c4edf6440b7cd87d0.jar" />
+    </item>
+    <item
+        jar="F:\androidWP\FindYourFriend\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\gcm-8c280a1efa24ed34593d30a33c596b5b0e6da704.jar" />
+    </item>
+    <item
+        jar="F:\androidWP\FindYourFriend\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-6e5aedeba9bfda03c0fec9d63a2d5654cc1bb924.jar" />
+    </item>
+
+</items>

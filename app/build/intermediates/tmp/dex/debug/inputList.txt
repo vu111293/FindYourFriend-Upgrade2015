@@ -1,0 +1,8 @@
+F:\androidWP\FindYourFriend\app\build\intermediates\classes\debug
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-0d89bdf348e49b51ff963eb089d19690d190a77a.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\CWAC-SackOfViewsAdapter-b1855f51a86fd9eefa057bbaf04c6605e5a8003b.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\gcm-8c280a1efa24ed34593d30a33c596b5b0e6da704.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-6e5aedeba9bfda03c0fec9d63a2d5654cc1bb924.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-b0dcc8c96aa0b8b91c1a018c4edf6440b7cd87d0.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\classes-1d89b43c5389650ffd12514e81140a539a365c24.jar
+F:\androidWP\FindYourFriend\app\build\intermediates\pre-dexed\debug\classes-346d230370bf73eac5de031a37ca32223c529da7.jar
